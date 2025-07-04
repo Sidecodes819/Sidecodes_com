@@ -52,11 +52,7 @@ Admin panel: https://eventify.archielite.com/admin
 Admin account: admin – 12345678 (username & password are autofilled)
 Customer login URL: https://eventify.archielite.com/login
 Customer account: customer@archielite.com – 12345678
-Notes:
-CONSIDERING PURCHASING OUR ITEM? Please view our support section for important notes and questions.
-Images used in the demo are not included in the download package. They are used for demo purposes only.
-Free plugins
-There are some free plugins available on our Marketplace: https://marketplace.botble.com/products
+
 
 Those plugins are working fine for products based on Botble CMS.
 
