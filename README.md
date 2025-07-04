@@ -46,8 +46,6 @@ Dynamic Color Compatible
 Fast support: we always reply your ticket within 1 business day.
 Note: We just provide free installation service for hosting using cPanel or Direct Admin. If you’re using VPS, you need to install cPanel or Direct Admin. We don’t provide installation service on localhost.
 
-If you need free installation service, please create a ticket on our support center https://archielite.ticksy.com and give us access to your hosting (hosting URL, username and password), our dev team will install it for you.
-
 Demo
 Homepage: https://eventify.archielite.com
 Admin panel: https://eventify.archielite.com/admin
